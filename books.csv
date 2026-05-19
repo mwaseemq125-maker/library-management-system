@@ -1,0 +1,8 @@
+book_id,name,author,quantity,available
+B001,Python Programming,Guido van Rossum,5,4
+B002,Data Structures and Algorithms,Thomas Cormen,3,3
+B003,Introduction to Databases,C.J. Date,4,3
+B004,Artificial Intelligence,Stuart Russell,2,2
+B005,Operating System Concepts,Abraham Silberschatz,6,5
+B006,Computer Networks,Andrew Tanenbaum,3,2
+56,Check,farmeen,10,10

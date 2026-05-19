@@ -1,0 +1,5 @@
+issue_id,student_name,book_id,book_name,issue_date,return_date
+ISS0001,Ali Hassan,B001,Python Programming,2026-05-10,
+ISS0002,Sara Khan,B003,Introduction to Databases,2026-05-12,2026-05-18
+ISS0003,Usman Malik,B005,Operating System Concepts,2026-05-15,
+ISS0004,Fatima Noor,B006,Computer Networks,2026-05-17,
